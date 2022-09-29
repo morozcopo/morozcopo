@@ -1,13 +1,5 @@
 - 👋 Hi, I’m @morozcopo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-morozcopo/morozcopo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 Hola, mi nombre es Mauricio Orozco, soy programador de sistemas de Medellín/Colombia, he realizado por mi propia cuenta varios estudios sobre lenguajes de programación,
 vengo desde mis inicios pasando por varios lenguajes tradicionales para manejo en WEB, me dí cuenta de la gran importancia de la programación orientada a objetos y ese 
 es el foco de mis actuales estudios, pero a la vez también quisiera prepararme en todas estas nuevas tecnologías actuales en WEB, manejo de algunas bibliotecas y 
@@ -17,3 +9,8 @@ se esté trabajando para que pueda ser accesible y de forma actualizada desde cu
 
 Espero aprender bastante en esta nueva etapa por medio de la utilización de todas estas herramientas colaborativas que han hecho de la programación una gran comunidad
 de personas que no son egoístas y les gusta compartir el conocimiento con los demás.
+
+
+He decidido por su gran importancia hacer migraciones de algunos proyectos antiguos que tengo en php puro en estas nuevas tecnologías/frameWorks o bibliotecas, y
+me he decidido por su gran importancia por React Js y entender los nuevos paradigmas por medio de Node Js, para el nuevo manejo de enrutamiento con parámetos
+(que antes esto nunca se hacía), y tratar de conocer todo lo que más pueda sobre Componentes, la creación y anclaje con otros componentes para lograr formar un todo.
