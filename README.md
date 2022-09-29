@@ -12,5 +12,4 @@ de personas que no son egoístas y les gusta compartir el conocimiento con los d
 
 
 He decidido por su gran importancia hacer migraciones de algunos proyectos antiguos que tengo en php puro en estas nuevas tecnologías/frameWorks o bibliotecas, y
-me he decidido por su gran importancia por React Js y entender los nuevos paradigmas por medio de Node Js, para el nuevo manejo de enrutamiento con parámetos
-(que antes esto nunca se hacía), y tratar de conocer todo lo que más pueda sobre Componentes, la creación y anclaje con otros componentes para lograr formar un todo.
+me he decidido por su gran importancia por React Js y entender los nuevos paradigmas por medio de Node Js, para el nuevo manejo de enrutamiento (que antes esto nunca se hacía), y tratar de conocer todo lo que más pueda sobre componentes, la creación y anclaje con otros para lograr formar un todo.
